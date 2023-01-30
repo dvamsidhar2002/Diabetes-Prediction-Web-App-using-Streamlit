@@ -1,4 +1,10 @@
 # Diabetes-Prediction-Web-App-using-Streamlit
+
+![Type](https://img.shields.io/badge/Machine-Learning-red.svg)
+![IDE](https://img.shields.io/badge/IDE-JupyterNotebook-orange.svg)
+![Type](https://img.shields.io/badge/Type-Supervised-yellow.svg)
+![Status](https://img.shields.io/badge/Status-Completed-darkgreen.svg)
+
 This is a Machine Learning project of Diabetes Prediction which is deployed as a Web App using Streamlit Cloud.
 
 Link to the web app : <a href=" https://dvamsidhar2002-diabetes-pred-diabetes-prediction-web-app-3c1wfu.streamlit.app/">
