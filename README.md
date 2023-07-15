@@ -1,5 +1,6 @@
 # Diabetes-Prediction-Web-App-using-Streamlit
 
+
 ![Type](https://img.shields.io/badge/Machine-Learning-red.svg)
 ![IDE](https://img.shields.io/badge/IDE-JupyterNotebook-orange.svg)
 ![Type](https://img.shields.io/badge/Type-Supervised-yellow.svg)
